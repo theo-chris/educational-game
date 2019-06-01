@@ -14,3 +14,4 @@
 * Pair Programming, teamwork and planning/organisation
 * Presentation skills
 * Git
+* JavaScript
